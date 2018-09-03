@@ -1,12 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: alexander
- * Date: 01.09.18
- * Time: 9:40
- */
-?>
-
-<?php
-echo 'Hello, world';
-?>
+<h1>03-09-2018 21:36<h1>
